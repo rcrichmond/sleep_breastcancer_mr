@@ -1,0 +1,7 @@
+Exposure,SNP,effect_allel,other_allele,eaf,beta,se,p-val
+L5_timing,rs1144566 ,C,T,0.97,0.096,0.014,8.00E-12
+L5_timing,rs113851554,T,G,0.057,0.133,0.011,2.00E-35
+L5_timing,rs12991815 ,C,G,0.424,0.029,0.005,2.00E-09
+L5_timing,rs9369062 ,A,C,0.708,0.039,0.005,9.00E-14
+L5_timing,rs4882315 ,T,C,0.507,0.027,0.005,2.00E-08
+L5_timing,rs12927162,G,A,0.277,0.029,0.005,3.00E-08

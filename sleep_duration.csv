@@ -1,0 +1,12 @@
+Exposure,SNP,effect_allel,other_allele,eaf,beta,se,p-val
+Sleep_duration,rs2660302 ,A,T,0.811,0.041,0.006,9.00E-12
+Sleep_duration,rs113851554,G,T,0.943,0.11,0.011,2.00E-25
+Sleep_duration,rs62158170,G,A,0.217,0.054,0.006,3.00E-21
+Sleep_duration,rs17400325,T,C,0.958,0.066,0.012,2.00E-08
+Sleep_duration,rs72828540,T,C,0.752,0.041,0.005,1.00E-13
+Sleep_duration,rs9369062,C,A,0.292,0.033,0.005,2.00E-10
+Sleep_duration,rs2975734,C,G,0.561,0.027,0.005,1.00E-08
+Sleep_duration,rs13282541,C,T,0.739,0.032,0.005,4.00E-09
+Sleep_duration,rs2880370,A,T,0.67,0.028,0.005,2.00E-08
+Sleep_duration,rs800165,T,T,0.343,0.028,0.005,3.00E-08
+Sleep_duration,rs10138240 ,G,G,0.514,0.029,0.005,7.00E-10

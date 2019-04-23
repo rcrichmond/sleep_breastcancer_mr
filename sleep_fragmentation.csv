@@ -1,0 +1,22 @@
+Exposure,SNP,effect_allel,other_allele,eaf,beta,se,p-val
+sleep_fragmentation,rs12714404,T,G,0.283,0.037,0.005,1.00E-12
+sleep_fragmentation,rs310727 ,T,C,0.475,0.026,0.005,3.00E-08
+sleep_fragmentation,rs55754932,C,A,0.284,0.037,0.005,2.00E-12
+sleep_fragmentation,rs9864672,T,C,0.522,0.029,0.005,2.00E-10
+sleep_fragmentation,rs4974697 ,T,A,0.39,0.026,0.005,5.00E-08
+sleep_fragmentation,rs7377083 ,A,C,0.43,0.029,0.005,2.00E-09
+sleep_fragmentation,rs749100 ,A,G,0.582,0.033,0.005,9.00E-12
+sleep_fragmentation,rs9341399,C,T,0.936,0.066,0.01,6.00E-12
+sleep_fragmentation,rs1889978 ,C,T,0.85,0.027,0.005,5.00E-09
+sleep_fragmentation,rs10233848,A,G,0.478,0.026,0.005,1.00E-08
+sleep_fragmentation,rs2141277 ,G,A,0.293,0.035,0.005,2.00E-11
+sleep_fragmentation,rs1124116,A,G,0.73,0.031,0.005,2.00E-09
+sleep_fragmentation,rs4755731 ,G,A,0.431,0.028,0.005,3.00E-09
+sleep_fragmentation,rs3751837 ,C,T,0.781,0.033,0.006,4.00E-09
+sleep_fragmentation,rs8045740 ,G,T,0.868,0.052,0.007,6.00E-14
+sleep_fragmentation,rs11078917,A,C,0.279,0.029,0.005,3.00E-08
+sleep_fragmentation,rs11082030 ,T,C,0.725,0.03,0.005,8.00E-09
+sleep_fragmentation,rs8098424,G,A,0.6119,0.027,0.005,1.00E-08
+sleep_fragmentation,rs76753486 ,T,C,0.084,0.047,0.008,2.00E-08
+sleep_fragmentation,rs429358 ,T,C,0.848,0.036,0.007,4.00E-08
+sleep_fragmentation,rs12479469,A,G,0.342,0.031,0.005,4.00E-10
